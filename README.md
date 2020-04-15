@@ -32,7 +32,7 @@ This is a web application that takes a user's birthday and calculates the day of
   2. Displays an Error Message if Date Input Left Blank.
       - INPUT: ""
       - OUTPUT: "Displays Error Message"
-  3. Displays an Error Message if Gender Not Chosen
+  3. Displays an Error Message if Gender Not Chosen.
       - INPUT: "" 
       - OUTPUT: "Display an Error Message" 
    4. Clears Form and Reset the Message on Click
