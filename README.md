@@ -35,7 +35,7 @@ This is a web application that takes a user's birthday and calculates the day of
   3. Displays an Error Message if Gender Not Chosen.
       - INPUT: "" 
       - OUTPUT: "Display an Error Message" 
-   4. Clears Form and Reset the Message on Click
+   4. Clears Form and Reset the Message on Click.
       - INPUT: "Click Reset Button" 
       - OUTPUT: "Clears and Resets the Form"
 
