@@ -39,7 +39,7 @@ This is a web application that takes a user's birthday and calculates the day of
       - INPUT: "Click Reset Button" 
       - OUTPUT: "Clears and Resets the Form"
 
-### Contributing to the Application
+### Contributing to the Application;
 1. git clone
    
    ``` git clone https://github.com/dun1-cmmd/Akan-Names.git ```
