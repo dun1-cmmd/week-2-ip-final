@@ -29,7 +29,7 @@ This is a web application that takes a user's birthday and calculates the day of
       - INPUT: "User's Birthdate Entered"
       - INPUT: "User's Gender Entered"
       - OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
-  2. Displays an Error Message if Date Input Left Blank
+  2. Displays an Error Message if Date Input Left Blank.
       - INPUT: ""
       - OUTPUT: "Displays Error Message"
   3. Displays an Error Message if Gender Not Chosen
