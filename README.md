@@ -17,7 +17,7 @@ This is a web application that takes a user's birthday and calculates the day of
 
 ### Technologies Used
 
-  - HTML5
+  - HTML5.
   - CSS
   - Javascript
   - Bootstrap
