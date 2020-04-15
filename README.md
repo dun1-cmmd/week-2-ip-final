@@ -23,7 +23,7 @@ This is a web application that takes a user's birthday and calculates the day of
   - Bootstrap.
 
 
-### Application features
+### Application features;
 
   1. Displays Form For Entering Date and Gender.
       - INPUT: "User's Birthdate Entered"
