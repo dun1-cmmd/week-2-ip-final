@@ -12,7 +12,7 @@ This is a web application that takes a user's birthday and calculates the day of
 
   - Open terminal{Ctrl+Alt+T},
   - git clone https://github.com/dun1-cmmd/Akan-Names.git,
-  - cd Akan-Names
+  - cd Akan-Names,
   - code .
 
 ### Technologies Used
