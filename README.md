@@ -47,7 +47,7 @@ This is a web application that takes a user's birthday and calculates the day of
 2. Set up the project locally (Refer to installation process)
 
 
-3. Create a branch from develop
+3. Create a branch from develop.
 
    ``` git checkout -b feature/<name-of-the-feature> ```
    
