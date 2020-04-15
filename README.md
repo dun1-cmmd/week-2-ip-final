@@ -25,7 +25,7 @@ This is a web application that takes a user's birthday and calculates the day of
 
 ### Application features
 
-  1. Displays Form For Entering Date and Gender
+  1. Displays Form For Entering Date and Gender.
       - INPUT: "User's Birthdate Entered"
       - INPUT: "User's Gender Entered"
       - OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
