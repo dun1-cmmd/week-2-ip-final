@@ -20,7 +20,7 @@ This is a web application that takes a user's birthday and calculates the day of
   - HTML5.
   - CSS.
   - Javascript.
-  - Bootstrap
+  - Bootstrap.
 
 
 ### Application features
